@@ -1,4 +1,4 @@
-# Welcome to DICT9 GitHub Page
+# DICT9 GitHub Page
 
 ---
 ## Semester 1 of 2019
