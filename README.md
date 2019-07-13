@@ -1,13 +1,11 @@
-## Welcome to DICT9 GitHub Pages
+# Welcome to DICT9 GitHub Page
 
-**Members**
+## Semester 1 of 2019
 
-1. A
-1. B
-1. C
-1. D
-1. E
-1. F
-1. G
-1. H
-1. I
+### 020017103
+* การวิจัยทางเทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา
+* Research in Information and Communication Technology for Education
+
+### 020017160
+*  เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา
+*  Information and Communication Technology for Education
