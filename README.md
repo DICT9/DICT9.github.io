@@ -1,7 +1,7 @@
 # DICT9 GitHub Page
 
 ---
-## Semester 1 of 2019
+## Semester 1 / Academic Year 2019
 
 * 020017103 **Research in Information and Communication Technology for Education** (การวิจัยทางเทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา)
 
@@ -9,4 +9,4 @@
 
 ---
 
-Last Update : Maykin Warasart
+Last Updated : Maykin Warasart
