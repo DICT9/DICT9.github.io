@@ -6,4 +6,10 @@
 
 สำหรับในส่วนของเนื้อหา ประกอบไปด้วย การเตรียมความพร้อมสู่โลกดิจิทัล ความฉลาด (intelligent) ในโลกดิจิทัล การผสมผสานกันระหว่างโลกความเป็นจริงกับโลกดิจิทัล การเชื่อมโยงกันอย่างมีประสิทธิภาพ และตบท้ายด้วยประเด็นด้านจริยธรรม
 
+เรื่องสำคัญๆ สำหรับผม ที่จับใจความได้ คือ
+* AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA 
+* BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB 
+* CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC 
+* DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD DDD 
+
 [[Certificate](https://thaimooc.org/edxphp/getcer/725198503f2100d7f3c1bf6c2cbc8ba86024c158)] of Completion
