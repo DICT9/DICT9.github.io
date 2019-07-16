@@ -5,7 +5,7 @@
 
 ### 020017103 **(Research in Information and Communication Technology for Education)**
 * Keywords for Research Topic
-	* [AAA](SATModel/AAA)
+	* [AAA](https://gitlab.com/DICT9/020017103/blob/master/SATModel/AAA)
 	* [BBB](SATModel/BBB)
 	* [CCC](SATModel/CCC)
 	* [DDD](SATModel/DDD)
