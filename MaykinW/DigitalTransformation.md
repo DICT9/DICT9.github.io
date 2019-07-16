@@ -18,7 +18,6 @@
 * **Quantum Computing**
 * **Privacy and Ethics**
 
-Maykin Warasart
 [[Certificate](https://thaimooc.org/edxphp/getcer/725198503f2100d7f3c1bf6c2cbc8ba86024c158)] of Completion (**qpM1DQ6SHK@367849**)
 
 * ระบบของ ThaiMOOC มีระบบ Verify ตัวผู้เรียนที่ไม่ธรรมดา
