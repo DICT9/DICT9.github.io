@@ -1,8 +1,8 @@
 # DICT9 GitHub Page
 
 ---
-## Academic Year 2019
-### ➳ Semester 1
+## Academic Year [2019]
+### ➳ Semester [1]
 
 * 020017103 **Research in Information and Communication Technology for Education** (การวิจัยทางเทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา)
 
