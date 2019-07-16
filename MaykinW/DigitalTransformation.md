@@ -6,7 +6,7 @@
 
 สำหรับในส่วนของเนื้อหา ประกอบไปด้วย การเตรียมความพร้อมสู่โลกดิจิทัล ความฉลาด (intelligent) ในโลกดิจิทัล การผสมผสานกันระหว่างโลกความเป็นจริงกับโลกดิจิทัล การเชื่อมโยงกันอย่างมีประสิทธิภาพ และตบท้ายด้วยประเด็นด้านจริยธรรม
 
-เรื่องสำคัญๆ สำหรับผม ที่จับใจความได้ คือ
+เรื่องสำคัญๆ สำหรับผม ที่จับใจความได้ (รวมๆ กันทั้งเรื่องที่รู้อยู่แล้ว กับเรื่องใหม่ๆ ที่เพิ่งเคยรู้) คือ
 * AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA AAA 
 * BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB BBB 
 * CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC CCC 
