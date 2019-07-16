@@ -7,16 +7,16 @@
 สำหรับในส่วนของเนื้อหา ประกอบไปด้วย การเตรียมความพร้อมสู่โลกดิจิทัล ความฉลาด (intelligent) ในโลกดิจิทัล การผสมผสานกันระหว่างโลกความเป็นจริงกับโลกดิจิทัล การเชื่อมโยงกันอย่างมีประสิทธิภาพ และตบท้ายด้วยประเด็นด้านจริยธรรม
 
 เรื่องสำคัญๆ สำหรับผม ที่จับใจความได้ (รวมๆ กันทั้งเรื่องที่รู้อยู่แล้ว กับเรื่องใหม่ๆ ที่เพิ่งเคยรู้) คือ
-* Autonomous Things 
-* Augmented Analytics 
-* AI-driven development
-* Digital Twin
-* Empowered Edge
-* Immersive Experience
-* Blockchain
-* Smart Space
-* Quantum Computing
-* Privacy and Ethics
+* **Autonomous Things**
+* **Augmented Analytics**
+* **AI-driven development**
+* **Digital Twin**
+* **Empowered Edge**
+* **Immersive Experience**
+* **Blockchain**
+* **Smart Space**
+* **Quantum Computing**
+* **Privacy and Ethics**
 
 Maykin Warasart
 [[Certificate](https://thaimooc.org/edxphp/getcer/725198503f2100d7f3c1bf6c2cbc8ba86024c158)] of Completion (**qpM1DQ6SHK@367849**)
