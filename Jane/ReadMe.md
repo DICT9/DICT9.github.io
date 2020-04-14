@@ -1,4 +1,4 @@
-﻿# [[J.K. Rowling]
+﻿# [J.K. Rowling]
 
 ### 020017160 **(Information and Communication Technology for Education)**
 * [Digital Transformation](DigitalTransformation)
