@@ -1,13 +1,5 @@
 # DICT9 GitHub Page
 
 ---
-## Academic Year [2019]
-### ➳ Semester [1]
 
-* 020017103 **Research in Information and Communication Technology for Education** (การวิจัยทางเทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา)
-
-* 020017160 **Information and Communication Technology for Education** (เทคโนโลยีสารสนเทศและการสื่อสารเพื่อการศึกษา)
-
----
-
-Last Updated : **Maykin Warasart** (6202052910031)
+<iframe src="https://calendar.google.com/calendar/embed?src=c_k9hvu23q3l357dalk32b26sesg%40group.calendar.google.com&ctz=Asia%2FBangkok" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
